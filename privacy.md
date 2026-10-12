@@ -36,4 +36,4 @@ This app's use and transfer of information received from Google APIs adheres to 
 
 ## Contact
 
-you@example.com
+johnn.wannamaker@gmail.com
